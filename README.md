@@ -1,8 +1,11 @@
-<div style="text-align: center;">
-  <img src="https://fevzidereli.com/fd_logo.png" width="200" height="200" />
-</div>
+<table>
+  <tr>
+    <td><h1>Wallbox Charging Station HMI SW</h1></td>
+    <td><img src="https://fevzidereli.com/fd_logo.png" width="50" height="50" /></td>
 
-# Wallbox Charging Station HMI SW
+  </tr>
+</table>
+
 
 **In this repo, the user interface software of a wallbox charging station was developed using the DMT80480T050_36WTC Linux LCD module by DWIN company.**
 
