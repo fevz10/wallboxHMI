@@ -1,4 +1,4 @@
-<table>
+<table style="margin: 0px auto;border: 0;">
   <tr>
     <td><h1>Wallbox Charging Station HMI SW</h1></td>
     <td><img src="https://fevzidereli.com/fd_logo.png" width="50" height="50" /></td>
