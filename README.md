@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://fevzidereli.com/fd_logo.png" alt="Image Description" width="200" height="200"/>
+  <img src="https://fevzidereli.com/fd_logo.png" width="200" height="200" />
 </div>
 
 # Wallbox Charging Station HMI SW
